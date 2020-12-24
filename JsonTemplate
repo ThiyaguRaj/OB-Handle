@@ -1,0 +1,37 @@
+{
+	"serviceType":"SMS",
+	"detail":1000,
+	"unit":"sms",
+	"plan":{
+		"planId":78
+	}
+}
+
+
+{
+	"productName":"MYVILLA",
+	"productType":"rental villa"
+}
+
+
+
+{
+	"planAmount":199,
+	"planFrequency":30,
+	"type":"Voice",
+	"product":{
+		"productId":9
+	}
+}
+
+
+{
+	"chargeType":"Activation",
+	"charge":133,
+	"plan":{
+		"planId":92
+	}
+}
+
+
+
